@@ -1,0 +1,67 @@
+{
+  "verification_scope": "Independent linear algebra check using the constants in Init_Setup_LQRArd.m; Simulink models were not executed.",
+  "controllability_rank": 4,
+  "observability_rank_full_state_output": 4,
+  "open_loop_poles": [
+    {
+      "real": 0.0,
+      "imag": 0.0
+    },
+    {
+      "real": -19.632660461470874,
+      "imag": 0.0
+    },
+    {
+      "real": 6.9177550591862556,
+      "imag": 0.0
+    },
+    {
+      "real": -5.600569572382765,
+      "imag": 0.0
+    }
+  ],
+  "lqr_gain": [
+    [
+      -185.16401995451946,
+      291.3571118475858,
+      -110.76808756689171,
+      31.268243658081726
+    ]
+  ],
+  "lqr_closed_loop_poles": [
+    {
+      "real": -36.664306476889756,
+      "imag": 33.372868218216375
+    },
+    {
+      "real": -36.664306476889756,
+      "imag": -33.372868218216375
+    },
+    {
+      "real": -2.277310430487108,
+      "imag": 1.8378366148929084
+    },
+    {
+      "real": -2.277310430487108,
+      "imag": -1.8378366148929084
+    }
+  ],
+  "estimator_error_poles": [
+    {
+      "real": -1.0036602206674203,
+      "imag": 0.0
+    },
+    {
+      "real": -18.864446134044705,
+      "imag": 0.0
+    },
+    {
+      "real": -7.531026238893148,
+      "imag": 0.9067256517877026
+    },
+    {
+      "real": -7.531026238893148,
+      "imag": -0.9067256517877026
+    }
+  ]
+}
